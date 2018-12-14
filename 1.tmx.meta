@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 84796a2d017dc6740bbfc8b1c9db5d24
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: _MapPrfab/1
+    400000: _MapPrfab/1/Transform
+    11400000: _MapPrfab/1/MonoBehaviour-SuperTiled2Unity.SuperMap
+    11400002: _superAsset
+    100100000: _MapPrfab
+    2569400265252428796: _MapPrfab/1/Grid
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  errors:
+  - "Missing tileset asset: \u043F\u043E\u043B.tsx"
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  tilesAsObjects: 0
+  importSorting: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets: []

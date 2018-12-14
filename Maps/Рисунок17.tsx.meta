@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ca51b56ba496cfd4f8711b1994a064e0
+ScriptedImporter:
+  fileIDToRecycleName:
+    11400000: _TilesetScriptObject
+    11400002: _superAsset
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc34d0f3dc257a442819830b408c5322, type: 3}
+  errors:
+  - "Missing texture asset: ../../../../../Downloads/\u0420\u0438\u0441\u0443\u043D\u043E\u043A17.png"
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  useSpriteAtlas: 1
+  atlasWidth: 2048
+  atlasHeight: 2048
